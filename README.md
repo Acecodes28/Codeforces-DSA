@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 17 |
+| 54 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 
 ### bitmasks
 
