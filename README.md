@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 16 |
+| 53 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
@@ -30,6 +31,12 @@
 - [two pointers](#two-pointers) (3)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 
 ### bitmasks
 
