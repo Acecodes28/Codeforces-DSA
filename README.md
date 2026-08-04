@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 56 | 17 |
+| 57 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
@@ -40,6 +40,7 @@
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+| 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 
 ### bitmasks
 
