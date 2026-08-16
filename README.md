@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 17 |
+| 62 | 17 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [dp](#dp) (3)
 - [dsu](#dsu) (1)
 - [games](#games) (4)
-- [greedy](#greedy) (27)
+- [greedy](#greedy) (28)
 - [implementation](#implementation) (13)
 - [math](#math) (28)
 - [number theory](#number-theory) (8)
@@ -129,6 +129,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
+| 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
