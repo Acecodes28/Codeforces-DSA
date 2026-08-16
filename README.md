@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 17 |
+| 61 | 17 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [games](#games) (4)
 - [greedy](#greedy) (27)
 - [implementation](#implementation) (13)
-- [math](#math) (27)
+- [math](#math) (28)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (8)
 - [strings](#strings) (8)
@@ -175,6 +175,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
