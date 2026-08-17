@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 66 | 17 |
+| 67 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (1)
@@ -42,6 +42,7 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### bitmasks
 
