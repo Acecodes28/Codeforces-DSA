@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 17 |
+| 72 | 17 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (8)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (13)
+- [brute force](#brute-force) (14)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (2)
@@ -25,7 +25,7 @@
 - [greedy](#greedy) (29)
 - [implementation](#implementation) (14)
 - [math](#math) (33)
-- [number theory](#number-theory) (9)
+- [number theory](#number-theory) (10)
 - [sortings](#sortings) (8)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (3)
@@ -57,6 +57,7 @@
 |---|---------|------------|----------|
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
+| 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
@@ -222,6 +223,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
