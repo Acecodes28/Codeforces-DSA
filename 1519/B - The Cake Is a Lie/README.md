@@ -1,0 +1,30 @@
+<h2><a href="https://codeforces.com/contest/1519/problem/B" target="_blank" rel="noopener noreferrer">1519B — The Cake Is a Lie</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1519B](https://codeforces.com/contest/1519/problem/B) |
+
+## Topics
+`dp` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. The Cake Is a Lie</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>There is a $$$n \times m$$$ grid. You are standing at cell $$$(1, 1)$$$ and your goal is to finish at cell $$$(n, m)$$$.</p><p>You can move to the neighboring cells to the right or down. In other words, suppose you are standing at cell $$$(x, y)$$$. You can: </p><ul> <li> move right to the cell $$$(x, y + 1)$$$ — it costs $$$x$$$ burles; </li><li> move down to the cell $$$(x + 1, y)$$$ — it costs $$$y$$$ burles. </li></ul><p>Can you reach cell $$$(n, m)$$$ spending <span class="tex-font-style-bf">exactly</span> $$$k$$$ burles?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains the single integer $$$t$$$ ($$$1 \le t \le 100$$$) — the number of test cases.</p><p>The first and only line of each test case contains three integers $$$n$$$, $$$m$$$, and $$$k$$$ ($$$1 \le n, m \le 100$$$; $$$0 \le k \le 10^4$$$) — the sizes of grid and the exact amount of money you need to spend.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, if you can reach cell $$$(n, m)$$$ spending <span class="tex-font-style-bf">exactly</span> $$$k$$$ burles, print <span class="tex-font-style-tt">YES</span>. Otherwise, print <span class="tex-font-style-tt">NO</span>.</p><p>You may print every letter in any case you want (so, for example, the strings <span class="tex-font-style-tt">yEs</span>, <span class="tex-font-style-tt">yes</span>, <span class="tex-font-style-tt">Yes</span> and <span class="tex-font-style-tt">YES</span> are all recognized as positive answer).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009546995095146997" id="id005746617528170369" class="input-output-copier">Copy</div></div><pre id="id009546995095146997">6
+1 1 0
+2 2 2
+2 2 3
+2 2 4
+1 4 3
+100 100 10000
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005782182222438251" id="id0005551998196914254" class="input-output-copier">Copy</div></div><pre id="id005782182222438251">YES
+NO
+YES
+NO
+YES
+NO
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, you are already in the final cell, so you spend $$$0$$$ burles.</p><p>In the second, third and fourth test cases, there are two paths from $$$(1, 1)$$$ to $$$(2, 2)$$$: $$$(1, 1)$$$ $$$\rightarrow$$$ $$$(1, 2)$$$ $$$\rightarrow$$$ $$$(2, 2)$$$ or $$$(1, 1)$$$ $$$\rightarrow$$$ $$$(2, 1)$$$ $$$\rightarrow$$$ $$$(2, 2)$$$. Both costs $$$1 + 2 = 3$$$ burles, so it's the only amount of money you can spend.</p><p>In the fifth test case, there is the only way from $$$(1, 1)$$$ to $$$(1, 4)$$$ and it costs $$$1 + 1 + 1 = 3$$$ burles.</p></div>
