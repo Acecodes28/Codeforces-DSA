@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 83 | 18 |
+| 84 | 18 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (14)
+- [constructive algorithms](#constructive-algorithms) (15)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
@@ -103,6 +103,7 @@
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
+| 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Acecodes28/Codeforces-DSA/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 
 ### data structures
 
